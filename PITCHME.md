@@ -21,17 +21,22 @@
 ---
 ### 7 anni di Spaghetti Open Data
 
-<p style="text-align:center">SOD nasce a settembre 2010.</p>
-
-<p style="text-align:center">A marzo 2018 ci sono:</p>
 <ul>
-<li>1305 persone nella mailing-list;</li>
+<li>1305 persone iscritte alla mailing-list;</li>
 <li>450 persone registrate nel sito web;</li>
 <li>3575 thread di discussione aperti in mailing-list;</li>
 <li>30 repository, 56 persone iscritte al gruppo SOD in GitHub;</li>
 <li>@spaghetti_folks: 3580 followers, 346 following.</li>
 </ul>
-Altri dettagli in questo post: <a href="http://www.dagoneye.it/blog/2018/03/10/sette-anni-spaghetti-open-data/" >Sette anni di Spaghetti Open Data</a>
+
+---
+
+### 7 anni da approfondire in un post
+
+<p>C'è un post con i link alle discussioni in lista per chi vuole approfondire: <br/>
+<a href="http://www.dagoneye.it/blog/2018/03/10/sette-anni-spaghetti-open-data/" >Sette anni di Spaghetti Open Data</a></p>
+
+<p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/snapshot_postSOD_www.dagoneye.it.png" alt="Screenshot blog" style="width:600px" /></p>
 
 ---
 
@@ -45,6 +50,11 @@ Altri dettagli in questo post: <a href="http://www.dagoneye.it/blog/2018/03/10/s
 <p>CAOS ORDINATO -- CONTAMINAZIONE -- COMUNITÀ INFORMALE</p>
 
 ---
+
+### SOD: il non-portale prima di dati.gov.it
+
+<p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/sod-2010.png" alt="Screenshot SOD 2010" style="width:800px" /></p>
+
 
 ### Quali fasi abbiamo passato?
 
