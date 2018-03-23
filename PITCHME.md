@@ -81,7 +81,7 @@
 
 <blockquote>L'innovazione a costo zero non esiste.</blockquote>
 <br/>
-<p>Non chiamiamo lavoro quello che è volontariato o marketing nascosto sotto altre vesti.</p>
+<p>Non chiamiamo lavoro quello che è volontariato.</p>
 
 ---
 
@@ -115,7 +115,7 @@
 
 ### Quale partecipazione e quale impatto?
 
-* FOIA, cooperazione con le istituzioni per il bene comune: quanti siamo?
+* FOIA, cooperazione con le istituzioni per il bene comune: quanti siamo a partecipare?
 * ci sono sempre più associazioni che competono: e se servisse fare squadra ne siamo davvero capaci?
 * Team per la Trasformazione Digitale: sono un bene comune, ma noi lo sappiamo?
 
@@ -123,8 +123,8 @@
 
 ### Ha ancora senso Spaghetti Open Data?
 
-* siamo un manifesto? Un humus dove confrontarsi oltre le realtà strutturate?
-* ci serve essere una **good lobby**? Siamo diventati un interlocutore in questi anni, come vogliamo gestirla questa cosa?
+* Siamo un humus dove confrontarsi oltre le realtà strutturate. Ci serve un manifesto?
+* Siamo una **good lobby**? Siamo diventati un interlocutore in questi anni, come vogliamo gestirla questa cosa?
 
 ---
 
