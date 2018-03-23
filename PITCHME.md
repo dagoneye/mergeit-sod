@@ -99,6 +99,11 @@
 
 <p>Siamo sicuri di avere il controllo?</p>
 
+<p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/schermata-neutralita.png" alt="Screenshot" style="width:800px" /></p>
+
+<p style="text-align:center">stiamo indagando sulla scomparsa di questo thread...</p>
+
+
 ---
 
 ### Quali sono i prossimi passi?
