@@ -33,7 +33,7 @@
 
 ### 7 anni da approfondire in un post
 
-<p>C'è un post con i link alle discussioni in lista per chi vuole approfondire: <br/>
+<p>C'è un post con i link alle discussioni più rilevanti in lista SOD per chi vuole approfondire: <br/>
 <a href="http://www.dagoneye.it/blog/2018/03/10/sette-anni-spaghetti-open-data/" >Sette anni di Spaghetti Open Data</a></p>
 
 <p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/snapshot_postSOD_www.dagoneye.it.png" alt="Screenshot blog" style="width:600px" /></p>
@@ -51,10 +51,11 @@
 
 ---
 
-### SOD: il non-portale prima di dati.gov.it
+### SOD: il non-portale prima di dati.gov.it, da dove siamo partiti
 
 <p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/sod-2010.png" alt="Screenshot SOD 2010" style="width:800px" /></p>
 
+---
 
 ### Quali fasi abbiamo passato?
 
@@ -97,12 +98,9 @@
 
 ### Nessuna scelta è neutrale
 
-<p>Siamo sicuri di avere il controllo?</p>
+<p>Siamo sicuri di avere il controllo? <br/> Stiamo indagando sulla cancellazione di questo thread...</p>
 
-<p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/schermata-neutralita.png" alt="Screenshot" style="width:800px" /></p>
-
-<p style="text-align:center">stiamo indagando sulla scomparsa di questo thread...</p>
-
+<p style="text-align:center"><img src="https://raw.githubusercontent.com/dagoneye/mergeit-sod/master/img/schermata-neutralita.png" alt="Screenshot" style="width:700px" /></p>
 
 ---
 
@@ -123,8 +121,8 @@
 
 ### Ha ancora senso Spaghetti Open Data?
 
-* Siamo un humus dove confrontarsi oltre le realtà strutturate. Ci serve un manifesto?
-* Siamo una **good lobby**? Siamo diventati un interlocutore in questi anni, come vogliamo gestirla questa cosa?
+* Siamo un humus dove confrontarsi oltre le realtà strutturate. Ci serve un manifesto per comunicarlo meglio?
+* Siamo una **good lobby** (riferimento al [progetto di Alberto Alemanno](https://cild.eu/blog/2017/07/10/lobbying4change-scuola-di-lobby-per-il-cambiamento-sociale/))? Siamo diventati un interlocutore in questi anni, come vogliamo gestirla questa cosa?
 
 ---
 
